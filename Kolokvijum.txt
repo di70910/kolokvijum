@@ -1,0 +1,53 @@
+1. c) <input id=txtValue" type="text" required="required"/>
+
+2.p
+{
+    border-radius: 1px;
+    text-shadow: 5px 2.54cm 5px rgb(150, 47, 47);
+}
+
+3.	a) ul type ne moze biti round vec circle
+
+	b) nije disk vec je disc
+
+	c) text-opacity se ne moze koristiti
+
+	d)	
+
+	e)text-color se ne pise vec se pise color
+
+		# #ff7b29 nije vec #ff7b29 bez dodatnog #
+
+		pise se article p{ ne article>p {
+
+	f)block naredba
+
+4. U html-u cemo napisati sledece:
+
+	<ul>
+            <li>Not me</li>
+            <li>Not me</li>
+            <li><span class="color">Target only me</span></li>
+        </ul>
+
+dok cemo u css-u napisati sledece:
+	.color {
+    		color: brown;
+	}	
+
+Ovim putem smo dodali klasu color koja sadrzi boju braon, kada je pozovemo u
+listi koristeci komandu span obojace se samo taj deo teksta
+
+5. bonus
+
+6. bonus
+
+7. bonus
+
+8. Promenili bi iz <p style="color:red;">... u blue umesto red
+
+9. bonus
+
+10. bonus
+
+11. ostatak bonusa
